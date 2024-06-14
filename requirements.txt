@@ -1,0 +1,6 @@
+transformers 
+python-dotenv 
+langchain 
+langchain-huggingface
+PyPDF2
+python-docx
